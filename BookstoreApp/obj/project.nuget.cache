@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kPoFHHxlBVetqGqI6XqDhh6lBSD82fM+PNTmCTTjoyTaxVbNHEAQiOu3E7Gta3DXjrZJYM0XuMiZN4XxcAuQRQ==",
+  "success": true,
+  "projectFilePath": "/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/BookstoreApp.csproj",
+  "expectedPackageFiles": [
+    "/home/vithushan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
