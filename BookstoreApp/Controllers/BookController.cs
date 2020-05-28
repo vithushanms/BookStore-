@@ -16,8 +16,9 @@ namespace BookstoreApp.Controllers
         
         }
 
-        public List<BookModel> getAllBooks(){
-            return _bookRepo.getAllBooks();
+        public ViewResult getAllBooks(){
+            var book= _bookRepo.getAllBooks();
+            return View();
         }
 
         public BookModel getBook(int id){

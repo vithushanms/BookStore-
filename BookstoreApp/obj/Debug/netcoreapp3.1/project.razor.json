@@ -20519,6 +20519,27 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "BookstoreApp",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/Views/Book/getAllBooks.cshtml",
+      "TargetPath": "Views\\Book\\getAllBooks.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/Views/Home/index.cshtml",
+      "TargetPath": "Views\\Home\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/Views/Home/aboutus.cshtml",
+      "TargetPath": "Views\\Home\\aboutus.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/Views/Shared/contactus.cshtml",
+      "TargetPath": "Views\\Shared\\contactus.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }

@@ -18,3 +18,17 @@
 /media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/BookstoreApp.dll
 /media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/BookstoreApp.pdb
 /media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/BookstoreApp.genruntimeconfig.cache
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/bin/Debug/netcoreapp3.1/BookstoreApp.Views.dll
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/bin/Debug/netcoreapp3.1/BookstoreApp.Views.pdb
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/BookstoreApp.RazorAssemblyInfo.cache
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/BookstoreApp.RazorAssemblyInfo.cs
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/BookstoreApp.TagHelpers.input.cache
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/BookstoreApp.TagHelpers.output.cache
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/BookstoreApp.RazorCoreGenerate.cache
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/index.cshtml.g.cs
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/BookstoreApp.RazorTargetAssemblyInfo.cs
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/BookstoreApp.Views.pdb
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/BookstoreApp.csproj.CopyComplete
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/Razor/Views/Book/getAllBooks.cshtml.g.cs
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/aboutus.cshtml.g.cs
+/media/vithushan/Vithu's linux/Projects/BookStore-/BookstoreApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/contactus.cshtml.g.cs
