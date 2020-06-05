@@ -56,7 +56,6 @@ D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Bookstore
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Book\getAllBooks.cshtml.g.cs
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\aboutus.cshtml.g.cs
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
-D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\contactus.cshtml.g.cs
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.RazorTargetAssemblyInfo.cache
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.RazorTargetAssemblyInfo.cs
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.Views.pdb
@@ -374,3 +373,5 @@ D:\learn\ASP.NET Core application\BookstoreApp\bin\Debug\netcoreapp3.1\zh-Hant\M
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.csproj.CoreCompileInputs.cache
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.MvcApplicationPartsAssemblyInfo.cs
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.MvcApplicationPartsAssemblyInfo.cache
+D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\contactus.cshtml.g.cs
+D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
