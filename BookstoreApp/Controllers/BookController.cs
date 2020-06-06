@@ -17,16 +17,17 @@ namespace BookstoreApp.Controllers
         }
 
         public ViewResult getAllBooks(){
-            var book= _bookRepo.getAllBooks();
-            return View();
+            var book = _bookRepo.getAllBooks();
+            return View(book);
         }
 
-        public BookModel getBook(int id){
-            return _bookRepo.getBookById(id);
+        public ViewResult getBook(int id){
+            var bookInfo = _bookRepo.getBookById(id);
+            return View(bookInfo);
         }
 
-        public List<BookModel> searchBook(String bookName, String authorName){
-            return _bookRepo.searchBook(bookName,authorName);
+        public List<BookModel> searchBook(String bookName, String authorName, String description){
+            return _bookRepo.searchBook(bookName,authorName,description);
         }
     }
 }

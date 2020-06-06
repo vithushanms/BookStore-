@@ -10,5 +10,13 @@ namespace BookstoreApp.Models
         public String bookName {get; set;}
 
         public String authorName {get; set;}
+
+        public String description { get; set;}
+
+        public String totalPages { get; set; }
+
+        public String language { get; set; }
+
+        public String category { get; set; }
     }
 }
