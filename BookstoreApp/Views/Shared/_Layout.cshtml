@@ -4,11 +4,69 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Bookstore</title>
-    <link href ="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet"/>
+    <environment include="Development">
+
+        <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+        <link href="~/css/Site.css" rel="stylesheet" />
+
+    </environment>
+
+    <environment exclude="Development">
+
+        <link rel="stylesheet"
+              href="http://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/twitter-bootstrap/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only"
+              asp-fallback-test-property="position"
+              asp-fallback-test-value="absolute"
+              integrity=""
+              crossorigin="anonymous">
+
+    </environment>
+
 </head>
-<body>
-    <div>
-        @RenderBody()
-    </div>
-</body>
+
+    <body>
+
+        <header>
+            <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
+                <a class="navbar-brand" href="#">Hello</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/home/Index">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/home/aboutus">About us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/home/contactus">Contact us</a>
+                        </li>
+                    </ul>
+                    <form class="form-inline my-2 my-lg-0">
+                        <li class="nav-item">
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Login</button>
+                            <button class="btn btn-outline-warning my-2 my-sm-0" type="submit">Signup</button>
+                        </li>
+                    </form>
+                </div>
+            </nav>
+        </header>
+
+        <main role="main">
+            @RenderBody()
+        </main>
+
+        <footer class="footer border-top text-muted text-center">
+            <div class="container">
+                Copyright  &copy; BookstoreApp @DateTime.Now.Year
+            </div>
+        </footer>
+
+     </body>
+
 </html>
