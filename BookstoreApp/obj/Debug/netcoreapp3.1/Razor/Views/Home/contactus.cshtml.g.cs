@@ -12,7 +12,15 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 1 "D:\learn\ASP.NET Core application\BookstoreApp\Views\_ViewImports.cshtml"
+using BookstoreApp.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e534cd01f0a8913d792c9687ff8e9fa769d0a81e", @"/Views/Home/contactus.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5fd5afdfb869d10f9ade435de7b2e19d4d8a382f", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_contactus : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

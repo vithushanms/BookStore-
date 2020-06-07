@@ -376,4 +376,5 @@ D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Bookstore
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\contactus.cshtml.g.cs
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Book\getBook.cshtml.g.cs
-D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ViewStart.cshtml.g.cs
+D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\learn\ASP.NET Core application\BookstoreApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
